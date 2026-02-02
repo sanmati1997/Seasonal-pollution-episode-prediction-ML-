@@ -236,11 +236,6 @@ jupyter notebook
 
 ---
 
-
-## 👥 Contributors
-
-- Nishal Save
-- Shantanu Ghaisas
 - Sanmati Sawalwade 
 
 ---
